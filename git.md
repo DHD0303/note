@@ -122,6 +122,7 @@ git diff HEAD 工作区和远程库
 ```
 git branch [分支名]  创建分支
 git branch 显示分支,前面有 * 号的为当前所在分支
+git branch -b [分支] 删除分支
 ```
 ### 一些远程操作  
 > http://www.ruanyifeng.com/blog/2014/06/git_remote.html
